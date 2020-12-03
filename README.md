@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** Seagleb, Single_Pendulum, SeagleBilly, seagleb@gmail.com
+*** Seagleb, Double_Pendulum, SeagleBilly, seagleb@gmail.com
 -->
 
 
@@ -34,19 +34,19 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Single Pendulum Simulation</h3>
+  <h3 align="center">Double Pendulum Simulation</h3>
 
   <p align="center">
-    Physics Simulation of a single Pendulum.
+    Physics Simulation of a double Pendulum.
     <br />
-    <a href="https://github.com/Seagleb/Single_Pendulum"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Seagleb/Double_Pendulum"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Seagleb/Single_Pendulum">View Demo</a>
+    <a href="https://github.com/Seagleb/Double_Pendulum">View Demo</a>
     ·
-    <a href="https://github.com/Seagleb/Single_Pendulum/issues">Report Bug</a>
+    <a href="https://github.com/Seagleb/Double_Pendulum/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Seagleb/Single_Pendulum/issues">Request Feature</a>
+    <a href="https://github.com/Seagleb/Double_Pendulum/issues">Request Feature</a>
   </p>
 </p>
 
@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-JavaScript physics simulation of a single pendulum.
+JavaScript physics simulation of a double pendulum.
 
 ### Built With
 
@@ -99,7 +99,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/Seagleb/Single_Pendulum.git
+git clone https://github.com/Seagleb/Double_Pendulum.git
 ```
 2. Install NPM packages
 ```sh
@@ -117,7 +117,7 @@ npm start
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Seagleb/Single_Pendulum/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Seagleb/Double_Pendulum/issues) for a list of proposed features (and known issues).
 
 
 
@@ -146,7 +146,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 William Seagle - [@SeagleBilly](https://twitter.com/SeagleBilly) - seagleb@gmail.com
 
-Project Link: [https://github.com/Seagleb/Single_Pendulum](https://github.com/Seagleb/Single_Pendulum)
+Project Link: [https://github.com/Seagleb/Double_Pendulum](https://github.com/Seagleb/Double_Pendulum)
 
 
 
